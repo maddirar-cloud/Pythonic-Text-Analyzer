@@ -1,0 +1,15 @@
+Python is a programming language that lets you work quickly and integrate systems more effectively
+The language is known for its readable code and the community around the language is friendly and helpful
+Good Python code is clean and simple and the best Python code reads almost like plain English
+
+A programmer who writes Python code learns to value readability because code is read far more often than it is written
+The Zen of Python says that simple is better than complex and that readability counts
+When the code is clear the program is easy to test and the team can maintain the code with confidence
+
+Refactoring is the process of improving the structure of the code without changing what the code does
+Small functions make the code easier to read and easier to reuse and each function should do one thing well
+A good name tells the reader what a variable holds and a good docstring tells the reader what a function does
+
+The with statement keeps files safe because the file is closed even when an error happens
+A list comprehension builds a list in a single line and the Counter class counts the words for you
+Python developers love these tools because the tools save time and make the code shorter and cleaner
