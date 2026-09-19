@@ -8,17 +8,17 @@ def read_file(file_name):
 
 
 def count_words(words):
-    """Record the number of times each word pops up."""
+    """Record the quantity of each respective word's appearances."""
     return Counter(words)
 
 
 def find_long_words(words):
-    """Return a list of words with more than three characters."""
+    """Return a list of words that have a higher character count than 3."""
     return [word for word in words if len(word) > 3]
 
 
 def analyze_text(file_name):
-    """Analyze a text file and print word frequency statistics."""
+    """Analyze a text file and print the respective frequency statistics."""
     text = read_file(file_name)
     words = text.lower().split()
 
