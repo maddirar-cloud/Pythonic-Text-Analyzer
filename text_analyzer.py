@@ -2,13 +2,13 @@ from collections import Counter
 
 
 def read_file(file_name):
-    """Read and return the contents of a text file."""
+    """Read and return the contents of the text file/whatever input file you have."""
     with open(file_name, "r") as file:
         return file.read()
 
 
 def count_words(words):
-    """Count the occurrences of each word."""
+    """Record the number of times each word pops up."""
     return Counter(words)
 
 
