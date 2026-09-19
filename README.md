@@ -8,7 +8,7 @@ This is a refactor project that refactors a poorly written script (unpythonic_an
 4. Number of Words Longer Than 3 Words
 
 **Screencast**:
-Watch the project walkthrough here: 
+Watch the project walkthrough here: https://www.loom.com/share/f8f9dcf8f5ca4801981240ed5a7aef7b
 
 **Requirements**:
 Python 3.6 or newer
